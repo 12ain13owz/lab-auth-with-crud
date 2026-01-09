@@ -9,6 +9,7 @@
 
 ## Folder Stucture
 
+```
 lab-auth-with-crud/
 ├─ frontend/
 │ └─ (Angular app)
@@ -18,3 +19,4 @@ lab-auth-with-crud/
 │
 ├─ README.md
 └─ docker-compose.yml
+```
